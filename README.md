@@ -9,7 +9,7 @@ Astoria - contributing 33% to the total revenue
 Hell's Kitchen - contributing 34% to the total revenue
 Lower Manhattan - contributing 33% to the total revenue 
 
-Time-Based Sales Insights
+# Time-Based Sales Insights
 The quantity sold showed a consistent month-to-month increase from January, with a noticeable uptick between May and June. 
 This gradual rise may be attributed to the seasonal shift toward colder weather
 
